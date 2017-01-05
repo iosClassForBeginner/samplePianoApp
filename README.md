@@ -19,7 +19,7 @@
 ## アプリ作成手順
 
 #### 0, アプリ開発準備
-> 0-1. ピアノ音声ファイルをダウンロード
+> 0-1. [ピアノ音声ファイルをダウンロード](https://github.com/iosClassForBeginner/samplePianoApp/raw/master/Assets/PianoSound.zip)
 
 > 0-2. iphone画面の向きをlandscape leftのみ選択
 
