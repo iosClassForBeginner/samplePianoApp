@@ -29,8 +29,8 @@
 > 1-2. StoryboardのUIButtonを、ViewController.swiftに紐づけます（actionで）
 
 > 1-3. Uibuttonに枠線を入れたい場合、user defined runtime attributesに以下を追加
-> layer.borderWidth Number {太さ}
-> layer.borderUIColor Color {色}
+* layer.borderWidth Number {太さ}
+* layer.borderUIColor Color {色}
 
 #### 2, ViewController.swiftにコード記述
 - 以下コードブロックを記入
