@@ -21,16 +21,23 @@
 #### 0, アプリ開発準備
 > 0-1. [ピアノ音声ファイルをダウンロード](https://github.com/iosClassForBeginner/samplePianoApp/raw/master/Assets/PianoSound.zip)
 
-> 0-2. iphone画面の向きをlandscape leftのみ選択
+> 0-2. ピアノ音声ファイルをプロジェクトにドロップ
+![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/file_drop.gif)
+
+> 0-3. iphone画面の向きをlandscape leftのみ選択
+![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/direction_screen.gif)
 
 #### 1, Storyboardで、アプリのデザイン
 > 1-1. main.storyboardを選択し、UI部品からUIButtonを配置します。(ドラッグ&ドロップ)
+![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/set_button.gif)
 
-> 1-2. StoryboardのUIButtonを、ViewController.swiftに紐づけます（actionで）
+> 1-2. StoryboardのUIButtonを、ViewController.swiftに紐づけます（control押しながらドラッグ）
+![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/tying_button_action.gif)
 
 > 1-3. Uibuttonに枠線を入れたい場合、user defined runtime attributesに以下を追加
 * layer.borderWidth Number {太さ}
 * layer.borderUIColor Color {色}
+![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/adding_border.gif)
 
 #### 2, ViewController.swiftにコード記述
 - 以下コードブロックを記入
