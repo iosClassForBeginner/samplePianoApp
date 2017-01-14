@@ -27,6 +27,9 @@
 > 0-3. iphone画面の向きをlandscape leftのみ選択
 ![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/direction_screen.gif)
 
+> 0-4. main.storyboardを選択し、iPhoneの向きを横向きにする
+![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/change_direction_storyboard.gif)
+
 #### 1, Storyboardで、アプリのデザイン
 > 1-1. main.storyboardを選択し、UI部品からUIButtonを配置します。(ドラッグ&ドロップ)
 ![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/set_button.gif)
