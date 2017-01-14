@@ -38,6 +38,7 @@
 ![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/tying_button_action.gif)
 
 > 1-3. Uibuttonに枠線を入れたい場合、user defined runtime attributesに以下を追加
+
 | Key Path | Type | Value |
 |:-----------|:-----------|:------------|
 |layer.borderWidth|Number|{太さ}|
