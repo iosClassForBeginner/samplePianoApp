@@ -38,8 +38,11 @@
 ![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/tying_button_action.gif)
 
 > 1-3. Uibuttonに枠線を入れたい場合、user defined runtime attributesに以下を追加
-* layer.borderWidth Number {太さ}
-* layer.borderUIColor Color {色}
+| Key Path | Type | Value |
+|:-----------|:-----------|:------------|
+|layer.borderWidth|Number|{太さ}|
+|layer.borderUIColor|Color|{色}|
+
 ![image](https://github.com/iosClassForBeginner/samplePianoApp/blob/master/Assets/adding_border.gif)
 
 #### 2, ViewController.swiftにコード記述
